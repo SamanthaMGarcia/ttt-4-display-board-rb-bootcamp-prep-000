@@ -1,5 +1,5 @@
 require "pry"
-board = [" "," "," "," "," "," "," "," "," "]
+b = [" "," "," "," "," "," "," "," "," "]
 def display_board(board)
 puts " O |   |   "
 puts "-----------"
